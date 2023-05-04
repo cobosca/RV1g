@@ -1,2 +1,2 @@
-Download the folder.
-open index.html / jauns.html
+1. Download the folder.
+2. open index.html / jauns.html
